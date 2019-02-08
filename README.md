@@ -9,7 +9,6 @@ Collection of cog sci koans for different computational approaches in a variety 
 
 ## To possibly include...
 
-- Markov processes in cognitive science
 - Pink noise and cognitive performance
 - Iterated learning model for the evolution of language
 - Opinion dynamics - biased assimilation and bounded confidence
