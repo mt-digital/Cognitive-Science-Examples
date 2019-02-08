@@ -9,9 +9,6 @@ Collection of cog sci koans for different computational approaches in a variety 
 
 ## To possibly include...
 
-
-- Three stages of past tense from PDP with some modern neural network library in Python (eg PyTorch, TensorFlow)
-
 - Markov processes in cognitive science
 - Pink noise and cognitive performance
 - Iterated learning model for the evolution of language
